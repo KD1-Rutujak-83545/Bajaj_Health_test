@@ -1,0 +1,87 @@
+[
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "phoneNumber": 9876543210,
+      "emailId": "alice.johnson@example.com"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Williams",
+      "phoneNumber": 9234567890,
+      "emailId": "john.doe@example.com"
+    },
+    {
+      "firstName": "",
+      "lastName": "Miller",
+      "phoneNumber": 9345678901,
+      "emailId": "miller@example.com"
+    },
+    {
+      "firstName": "Charlie",
+      "lastName": "Brown",
+      "phoneNumber": 9123456789,
+      "emailId": "charlie.brown"
+    },
+    {
+      "firstName": "Dave",
+      "lastName": "Wilson",
+      "phoneNumber": "123ABC7890",
+      "emailId": "dave.wilson@example.com"
+    },
+    {
+      "firstName": "Anna@",
+      "lastName": "O'Brien!",
+      "phoneNumber": 9898989898,
+      "emailId": "anna.obrien@example.com"
+    },
+    {
+      "firstName": "ThisIsAnExcessivelyLongFirstNameThatExceedsTheNormalLength",
+      "lastName": "DoeWithAVeryLongLastNameThatMightBreakSomething",
+      "phoneNumber": 9123456789,
+      "emailId": "long.email@example.com"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "phoneNumber": 9123456780,
+      "emailId": "jane.smith@example.com"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "phoneNumber": 9876543210,
+      "emailId": "john.doe@example.com"
+    },
+    {
+      "firstName": "Test' OR '1'='1",
+      "lastName": "User",
+      "phoneNumber": 9999999999,
+      "emailId": "test@test.com"
+    },
+    {
+      "firstName": "Test",
+      "lastName": "User' UNION SELECT null, null, null, null --",
+      "phoneNumber": 9999999999,
+      "emailId": "test@test.com"
+    },
+    {
+      "firstName": "Test' OR IF(1=1, SLEEP(5), 0) --",
+      "lastName": "User",
+      "phoneNumber": 9999999999,
+      "emailId": "test@test.com"
+    },
+    {
+      "firstName": "Test' --",
+      "lastName": "User",
+      "phoneNumber": 9999999999,
+      "emailId": "test@test.com"
+    },
+    {
+      "firstName": "Test",
+      "lastName": "User' AND 1=CONVERT(int, 'varchar') --",
+      "phoneNumber": 9999999999,
+      "emailId": "test@test.com"
+    }
+  ]
+  
